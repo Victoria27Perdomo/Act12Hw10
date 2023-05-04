@@ -1,4 +1,4 @@
-##Activity 12
+## Activity 12
 
 Observe the following arrangement.
 
@@ -31,7 +31,7 @@ Create a Vue application where you can shape the data provided in the previous f
 
 Remember to edit your README.md file with the description of the activity, take screenshots and attach everything in a document in report format along with the GitHub URL.
 
-##Homework 10
+## Homework 10
 
 After activity 12, we will modify the data as follows:
 
