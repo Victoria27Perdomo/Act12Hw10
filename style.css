@@ -19,19 +19,24 @@ body {
     text-align: center;
 }
 
-.lista {
+/*.lista {
     list-style: none;
     background-image: url(http://s.myniceprofile.com/myspacepic/466/46614.gif);
     background-position: left center;
     background-repeat: no-repeat;
     background-size: 30px;
     padding: 10px 40px;
-}
+}*/
 
 .col {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.imgCard {
+    height: 400px;
+    object-fit: cover;
 }
 
 h1{
