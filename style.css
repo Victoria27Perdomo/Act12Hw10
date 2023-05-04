@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    padding: auto;
+    margin: auto;
+    background-color: #FEE6EF;
+    font-family: 'Poppins', sans-serif;
+    color: #FE9FC2;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.lista {
+    list-style: none;
+    background-image: url(http://s.myniceprofile.com/myspacepic/466/46614.gif);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding: 10px 40px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-family: 'Ms Madi', cursive;
+    color: #FF5291;
+}
+
+/* Start https://www.cursors-4u.com */ 
+* {cursor: url(https://cur.cursors-4u.net/anime/ani-1/ani185.cur), auto !important;} 
+/* End https://www.cursors-4u.com */
+
